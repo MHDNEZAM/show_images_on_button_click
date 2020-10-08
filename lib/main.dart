@@ -5,3 +5,5 @@
 // create a new text widget to show some text on the screen
 
 // taken that widget and get it on the screen
+
+// check
